@@ -1,0 +1,250 @@
+.image{
+  background-image: url(art.jpg);
+  background-position: center;
+  background-size:contain;
+    height: 100%;
+  }
+
+  .frame{
+    height: 60vh;
+    overflow: hidden;
+  }
+
+.bg{
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.4);
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    border: 3px solid #f1f1f1;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    text-align: center;
+  }
+h1{
+    text-align: center;
+
+}
+
+body{
+    background-image: url(frame.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:100%;
+    height: 110rem;
+    margin: 0;
+    font-size: 25px;
+    font-family: "Cherry Swash" ;
+}
+
+.box {
+    width: 600px;
+    position: absolute;
+    margin: 0 550px;
+}
+
+.im{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    color: var(--cir-light);
+    font-weight: 700;
+    font-size: 1.24rem;
+    box-shadow: 5px 0 10px black;
+}
+
+.m1 {
+  position: absolute;
+  height: 220px;
+  width: 220px;
+  top: 60px;
+  margin: 20px;
+  background: url(Non.jpg);
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px;
+  cursor: pointer;
+
+}
+
+.m2{
+    position: absolute;
+  height: 220px;
+  width: 220px;
+  top: 60px;
+  left: 250px;
+  margin: 20px;
+  background: url(neko.jpg);
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.m3{
+    position: absolute;
+    height: 220px;
+    width: 220px;
+    top: 60px;
+    left: 500px;
+    margin: 20px;
+    background: url(car.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.m4{
+    position: absolute;
+  height: 220px;
+  width: 220px;
+  top: 360px;
+  margin: 20px;
+  background: url(gar.jpg);
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.m5{
+    position: absolute;
+  height: 220px;
+  width: 220px;
+  top: 360px;
+  left: 250px;
+  margin: 20px;
+  background: url(Color.jpg);
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.m6{
+    position: absolute;
+    height: 220px;
+    width: 220px;
+    top: 360px;
+    left: 500px;
+    margin: 20px;
+    background: url(ha.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.m7{
+    position: absolute;
+  height: 220px;
+  width: 220px;
+  top: 660px;
+  margin: 20px;
+  background: url(UTK.jpg);
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.m8{
+    position: absolute;
+  height: 220px;
+  width: 220px;
+  top: 660px;
+  left: 250px;
+  margin: 20px;
+  background: url(Ipad.jpg);
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.m9{
+    position: absolute;
+  height: 220px;
+  width: 220px;
+  top: 660px;
+  left: 500px;
+  margin: 20px;
+  background: url(scape.jpg);
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+footer {
+    width: 600px;
+    font-family: "Cherry Swash" ;
+    position: absolute;
+    top: 1600px;
+    left: 630px;
+    padding: 40px 0;
+    background-color: #f3eded;
+    color: #979797;
+  }
+  .footer .foo {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(120, 115, 115);
+    margin-bottom: 0;
+  }
+  
+  .head {
+    text-align: center;
+    padding-top: 210px;
+  }
+
+  .tex {
+    color: #4b4c4d;
+  }
+  a {
+    text-decoration: none;
+  }
+
+  .com{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 180px;
+    left: 1100px;
+    border-radius: 20px;
+  }
+
+
+.cap{
+  text-align: justify;
+  font-size: 50px;
+  margin-top: 10px;
+  margin-left: 30px;
+  color: rgb(83, 73, 73)
+}
+
+.capd{
+  padding-left: 30px;
+  margin-top: -20px;
+  font-size: 30px;
+  color: rgb(125, 122, 122)
+}
+
+.bom{
+  width: 750px;
+  margin: 0 28%;
+  margin-top: -100px;
+  border: 10px solid #ccc;
+  padding: 20px;
+  display: block;
+  border-radius: 20px;
+}
+
+
